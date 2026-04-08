@@ -8,10 +8,12 @@ print(dividir(10, 2))
 print(dividir(10, 0))
 
 
-""" **Exercicio:**
-Crie um arquivo `ex06.py` com uma funcao `dividir(a, b)` que:
-- Tenta dividir `a` por `b`
-- Se `b` for zero, imprime `"Erro: divisao por zero"` e retorna `None`
-- Se funcionar, retorna o resultado
+""" 
+None significa:
 
-Teste com valores normais e com `b = 0`. """
+ausência de valor
+variável ainda não definida
+função sem retorno
+resultado inexistente
+placeholder temporário durante o código
+ """
