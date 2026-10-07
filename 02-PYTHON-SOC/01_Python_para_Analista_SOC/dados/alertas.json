@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "data": "2026-10-06 03:14:33",
+    "regra": "Login após força bruta SSH",
+    "severidade": "critica",
+    "ip": "185.220.101.47",
+    "host": "srv01"
+  },
+  {
+    "id": 2,
+    "data": "2026-10-06 04:02:58",
+    "regra": "Força bruta SSH",
+    "severidade": "alta",
+    "ip": "45.33.32.156",
+    "host": "srv01"
+  },
+  {
+    "id": 3,
+    "data": "2026-10-06 03:14:20",
+    "regra": "Força bruta SSH",
+    "severidade": "alta",
+    "ip": "185.220.101.47",
+    "host": "srv01"
+  },
+  {
+    "id": 4,
+    "data": "2026-10-06 10:15:32",
+    "regra": "SQL Injection",
+    "severidade": "critica",
+    "ip": "185.220.101.47",
+    "host": "web01"
+  },
+  {
+    "id": 5,
+    "data": "2026-10-06 10:20:11",
+    "regra": "Cross-Site Scripting (XSS)",
+    "severidade": "alta",
+    "ip": "45.33.32.156",
+    "host": "web01"
+  },
+  {
+    "id": 6,
+    "data": "2026-10-06 10:30:02",
+    "regra": "Scanner de vulnerabilidades (Nikto)",
+    "severidade": "media",
+    "ip": "91.240.118.172",
+    "host": "web01"
+  },
+  {
+    "id": 7,
+    "data": "2026-10-06 03:59:02",
+    "regra": "Falhas de login espalhadas",
+    "severidade": "media",
+    "ip": "91.240.118.172",
+    "host": "srv01"
+  },
+  {
+    "id": 8,
+    "data": "2026-10-06 08:01:10",
+    "regra": "Senha incorreta (usuário interno)",
+    "severidade": "baixa",
+    "ip": "192.168.1.35",
+    "host": "srv01"
+  }
+]

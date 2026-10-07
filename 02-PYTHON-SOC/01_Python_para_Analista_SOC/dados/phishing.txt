@@ -1,0 +1,7 @@
+De: suporte@banco-seguro-verificacao.com
+Assunto: Sua conta será bloqueada!
+Detectamos acesso incomum a partir do IP 185.220.101.47.
+Confirme seus dados em https://banco-seguro-verificacao.com/login?id=8812
+ou em http://91.240.118.172/confirmar.php - Dúvidas: atendimento@banco-seguro-verificacao.com
+Anexo: fatura.pdf.exe (MD5: 5d41402abc4b2a76b9719d911017c592)
+Servidor de envio: 91.240.118.172
