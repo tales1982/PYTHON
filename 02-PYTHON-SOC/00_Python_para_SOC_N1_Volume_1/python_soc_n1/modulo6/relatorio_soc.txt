@@ -1,0 +1,40 @@
+=======================================================
+       RELATÓRIO DE SEGURANÇA - finance-web
+=======================================================
+
+1. ALERTAS DE FORÇA BRUTA SSH
+-------------------------------------------------------
+Limite configurado: 5 falhas
+
+[ALERTA] 203.0.113.50      22 falhas
+[ALERTA] 198.51.100.77     15 falhas
+[ALERTA] 45.33.32.156       9 falhas
+[ALERTA] 185.220.101.4      5 falhas
+
+IPs analisados: 8
+IPs em alerta: 4
+
+=======================================================
+2. USUÁRIOS ATACADOS
+-------------------------------------------------------
+USUÁRIO         TENTATIVAS   STATUS
+-------------------------------------------------------
+root                    33   [!] NÃO MARCADO INVÁLIDO
+admin                   10   não existe
+ubuntu                   4   não existe
+test                     3   não existe
+oracle                   3   não existe
+postgres                 3   não existe
+maria                    3   [!] NÃO MARCADO INVÁLIDO
+guest                    2   não existe
+
+=======================================================
+3. RESUMO DA ANÁLISE
+-------------------------------------------------------
+Total de tentativas: 61
+Usuários alvo: 8
+Usuários marcados inválidos: 6
+Usuários não marcados inválidos: 2
+
+[!] Prioridade de investigação: root, maria
+=======================================================

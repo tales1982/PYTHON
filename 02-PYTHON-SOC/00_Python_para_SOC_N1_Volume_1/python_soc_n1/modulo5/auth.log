@@ -1,0 +1,15 @@
+Oct 07 01:30:14 finance-web sudo: root : COMMAND=/usr/bin/apt update
+Oct 07 02:14:01 finance-web sshd: Failed password for root from 198.51.100.77 port 60101
+Oct 07 02:14:03 finance-web sshd: Failed password for root from 198.51.100.77 port 60102
+Oct 07 02:14:05 finance-web sshd: Failed password for root from 198.51.100.77 port 60103
+Oct 07 02:14:07 finance-web sshd: Failed password for root from 198.51.100.77 port 60104
+Oct 07 02:14:09 finance-web sshd: Failed password for root from 198.51.100.77 port 60105
+Oct 07 02:14:12 finance-web sshd: Accepted password for root from 198.51.100.77 port 60110
+Oct 07 02:15:02 finance-web sudo: root : COMMAND=/usr/bin/cat /etc/shadow
+Oct 07 02:16:41 finance-web sudo: root : COMMAND=/usr/bin/useradd backupsvc
+Oct 07 02:17:10 finance-web sudo: root : COMMAND=/usr/bin/passwd backupsvc
+Oct 07 02:20:05 finance-web sshd: Failed password for root from 198.51.120.44 port 51203
+Oct 07 02:20:07 finance-web sshd: Failed password for root from 198.51.120.44 port 51204
+Oct 07 02:20:09 finance-web sshd: Failed password for root from 198.51.120.44 port 51205
+Oct 07 02:20:12 finance-web sshd: Accepted password for root from 198.51.120.44 port 51210
+Oct 07 08:02:11 finance-web sshd: Accepted password for tales from 10.0.0.15 port 50020

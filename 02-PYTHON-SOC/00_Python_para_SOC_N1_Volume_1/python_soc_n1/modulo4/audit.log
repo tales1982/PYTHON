@@ -1,0 +1,9 @@
+type=CONFIG_CHANGE msg=audit(1791187488.870:595): auid=1000 ses=3 subj=unconfined
+type=USER_LOGIN msg=audit(1791187501.115:596): pid=2201 uid=0 auid=1000 ses=3 res=success
+type=USER_LOGIN msg=audit(1791187522.901:597): pid=2210 uid=0 auid=1001 ses=4 res=failed
+type=EXECVE msg=audit(1791187600.220:598): argc=3 a0="sudo" a1="systemctl" a2="stop"
+type=USER_LOGIN msg=audit(1791187650.510:599): pid=2250 uid=0 auid=1001 ses=4 res=failed
+type=EXECVE msg=audit(1791187700.310:600): argc=3 a0="grep" a1="USER_LOGIN" a2="/var/log/audit/audit.log"
+type=USER_LOGIN_FAILED msg=audit(1791187720.440:601): pid=2301 uid=0 auid=1002 ses=5 res=failed
+type=USER_CMD msg=audit(1791187745.880:602): pid=2310 uid=1000 auid=1000 ses=3 cmd="ausearch -m USER_LOGIN" res=success
+type=USER_LOGIN msg=audit(1791187790.125:603): pid=2330 uid=0 auid=1000 ses=6 res=success

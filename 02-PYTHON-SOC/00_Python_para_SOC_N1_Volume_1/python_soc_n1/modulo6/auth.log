@@ -1,0 +1,106 @@
+Oct 08 00:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 00:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 00:20:11 finance-web sudo: root : COMMAND=/usr/bin/apt update
+Oct 08 00:47:00 finance-web sshd: Failed password for invalid user admin from 91.240.118.172 port 41001
+Oct 08 00:47:06 finance-web sshd: Failed password for invalid user admin from 91.240.118.172 port 41004
+Oct 08 00:47:08 finance-web sshd: Failed password for root from 91.240.118.172 port 41036
+Oct 08 00:47:11 finance-web sshd: Failed password for root from 91.240.118.172 port 41068
+Oct 08 00:47:13 finance-web sshd: Received disconnect from 91.240.118.172 port 41085:11: Bye Bye [preauth]
+Oct 08 01:02:00 finance-web sshd: Failed password for root from 203.0.113.50 port 40001
+Oct 08 01:02:05 finance-web sshd: Failed password for root from 203.0.113.50 port 40009
+Oct 08 01:02:10 finance-web sshd: Failed password for root from 203.0.113.50 port 40019
+Oct 08 01:02:12 finance-web sshd: Failed password for root from 203.0.113.50 port 40028
+Oct 08 01:02:14 finance-web sshd: Failed password for root from 203.0.113.50 port 40063
+Oct 08 01:02:17 finance-web sshd: Failed password for root from 203.0.113.50 port 40072
+Oct 08 01:02:20 finance-web sshd: Failed password for root from 203.0.113.50 port 40075
+Oct 08 01:02:22 finance-web sshd: Failed password for root from 203.0.113.50 port 40084
+Oct 08 01:02:25 finance-web sshd: Failed password for invalid user admin from 203.0.113.50 port 40119
+Oct 08 01:02:30 finance-web sshd: Failed password for invalid user admin from 203.0.113.50 port 40153
+Oct 08 01:02:35 finance-web sshd: Failed password for invalid user admin from 203.0.113.50 port 40167
+Oct 08 01:02:41 finance-web sshd: Received disconnect from 203.0.113.50 port 40173:11: Bye Bye [preauth]
+Oct 08 01:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 01:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 02:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 02:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 02:14:00 finance-web sshd: Failed password for invalid user test from 198.51.100.77 port 40400
+Oct 08 02:14:02 finance-web sshd: Failed password for invalid user oracle from 198.51.100.77 port 40434
+Oct 08 02:14:07 finance-web sshd: Failed password for invalid user postgres from 198.51.100.77 port 40448
+Oct 08 02:14:10 finance-web sshd: Failed password for invalid user ubuntu from 198.51.100.77 port 40476
+Oct 08 02:14:14 finance-web sshd: Failed password for invalid user guest from 198.51.100.77 port 40489
+Oct 08 02:14:18 finance-web sshd: Failed password for invalid user admin from 198.51.100.77 port 40504
+Oct 08 02:14:23 finance-web sshd: Failed password for root from 198.51.100.77 port 40507
+Oct 08 02:14:27 finance-web sshd: Failed password for invalid user test from 198.51.100.77 port 40529
+Oct 08 02:14:31 finance-web sshd: Failed password for invalid user oracle from 198.51.100.77 port 40551
+Oct 08 02:14:37 finance-web sshd: Failed password for invalid user postgres from 198.51.100.77 port 40577
+Oct 08 02:14:42 finance-web sshd: Failed password for root from 198.51.100.77 port 40598
+Oct 08 02:14:45 finance-web sshd: Failed password for root from 198.51.100.77 port 40605
+Oct 08 02:14:49 finance-web sshd: Failed password for root from 198.51.100.77 port 40617
+Oct 08 02:14:55 finance-web sshd: Failed password for root from 198.51.100.77 port 40652
+Oct 08 02:14:59 finance-web sshd: Failed password for root from 198.51.100.77 port 40658
+Oct 08 02:15:02 finance-web sshd: Received disconnect from 198.51.100.77 port 40671:11: Bye Bye [preauth]
+Oct 08 02:15:06 finance-web sshd: Accepted password for root from 198.51.100.77 port 40673
+Oct 08 02:15:57 finance-web sudo: root : COMMAND=/usr/bin/cat /etc/shadow
+Oct 08 02:17:35 finance-web sudo: root : COMMAND=/usr/bin/useradd backupsvc
+Oct 08 02:19:05 finance-web sudo: root : COMMAND=/usr/bin/passwd backupsvc
+Oct 08 03:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 03:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 03:41:00 finance-web sshd: Failed password for root from 203.0.113.50 port 40181
+Oct 08 03:41:02 finance-web sshd: Failed password for root from 203.0.113.50 port 40207
+Oct 08 03:41:06 finance-web sshd: Failed password for root from 203.0.113.50 port 40220
+Oct 08 03:41:09 finance-web sshd: Failed password for root from 203.0.113.50 port 40242
+Oct 08 03:41:14 finance-web sshd: Failed password for root from 203.0.113.50 port 40266
+Oct 08 03:41:20 finance-web sshd: Failed password for root from 203.0.113.50 port 40282
+Oct 08 03:41:23 finance-web sshd: Failed password for root from 203.0.113.50 port 40296
+Oct 08 03:41:28 finance-web sshd: Failed password for invalid user admin from 203.0.113.50 port 40332
+Oct 08 03:41:30 finance-web sshd: Failed password for invalid user admin from 203.0.113.50 port 40336
+Oct 08 03:41:33 finance-web sshd: Failed password for invalid user admin from 203.0.113.50 port 40359
+Oct 08 03:41:36 finance-web sshd: Failed password for invalid user admin from 203.0.113.50 port 40373
+Oct 08 03:41:39 finance-web sshd: Received disconnect from 203.0.113.50 port 40398:11: Bye Bye [preauth]
+Oct 08 04:05:00 finance-web sshd: Failed password for root from 45.33.32.156 port 40697
+Oct 08 04:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 04:05:02 finance-web sshd: Failed password for root from 45.33.32.156 port 40723
+Oct 08 04:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 04:05:06 finance-web sshd: Failed password for root from 45.33.32.156 port 40743
+Oct 08 04:05:09 finance-web sshd: Failed password for root from 45.33.32.156 port 40751
+Oct 08 04:05:14 finance-web sshd: Failed password for root from 45.33.32.156 port 40764
+Oct 08 04:05:18 finance-web sshd: Failed password for root from 45.33.32.156 port 40793
+Oct 08 04:05:23 finance-web sshd: Failed password for invalid user ubuntu from 45.33.32.156 port 40797
+Oct 08 04:05:29 finance-web sshd: Failed password for invalid user ubuntu from 45.33.32.156 port 40805
+Oct 08 04:05:33 finance-web sshd: Failed password for invalid user ubuntu from 45.33.32.156 port 40812
+Oct 08 04:05:35 finance-web sshd: Received disconnect from 45.33.32.156 port 40825:11: Bye Bye [preauth]
+Oct 08 05:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 05:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 05:20:00 finance-web sshd: Failed password for root from 185.220.101.4 port 40838
+Oct 08 05:20:04 finance-web sshd: Failed password for invalid user oracle from 185.220.101.4 port 40849
+Oct 08 05:20:07 finance-web sshd: Failed password for root from 185.220.101.4 port 40880
+Oct 08 05:20:09 finance-web sshd: Failed password for invalid user postgres from 185.220.101.4 port 40912
+Oct 08 05:20:15 finance-web sshd: Failed password for root from 185.220.101.4 port 40945
+Oct 08 05:20:19 finance-web sshd: Received disconnect from 185.220.101.4 port 40969:11: Bye Bye [preauth]
+Oct 08 05:58:00 finance-web sshd: Failed password for root from 162.142.125.9 port 41148
+Oct 08 05:58:05 finance-web sshd: Received disconnect from 162.142.125.9 port 41167:11: Bye Bye [preauth]
+Oct 08 06:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 06:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 06:12:00 finance-web sshd: Failed password for invalid user test from 77.88.55.60 port 41117
+Oct 08 06:12:05 finance-web sshd: Failed password for invalid user guest from 77.88.55.60 port 41140
+Oct 08 06:12:08 finance-web sshd: Received disconnect from 77.88.55.60 port 41141:11: Bye Bye [preauth]
+Oct 08 07:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 07:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 07:58:40 finance-web sshd: Accepted password for tales from 10.0.0.15 port 41228
+Oct 08 08:01:05 finance-web sshd: Failed password for maria from 10.0.0.23 port 41196
+Oct 08 08:01:12 finance-web sshd: Failed password for maria from 10.0.0.23 port 41208
+Oct 08 08:01:20 finance-web sshd: Failed password for maria from 10.0.0.23 port 41211
+Oct 08 08:01:31 finance-web sshd: Accepted password for maria from 10.0.0.23 port 41220
+Oct 08 08:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 08:05:02 finance-web sudo: tales : COMMAND=/usr/bin/systemctl restart nginx
+Oct 08 08:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 09:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 09:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 09:12:03 finance-web sshd: Accepted password for joao from 10.0.0.31 port 41265
+Oct 08 09:15:44 finance-web sudo: joao : COMMAND=/usr/bin/tail -n 50 /var/log/nginx/error.log
+Oct 08 10:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 10:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 10:30:50 finance-web sshd: Accepted password for tales from 10.0.0.15 port 41269
+Oct 08 10:33:09 finance-web sudo: tales : COMMAND=/usr/bin/apt upgrade
+Oct 08 11:05:01 finance-web CRON: pam_unix(cron:session): session opened for user root
+Oct 08 11:05:02 finance-web CRON: pam_unix(cron:session): session closed for user root
+Oct 08 11:05:17 finance-web sshd: Accepted password for ana from 10.0.0.42 port 41283
